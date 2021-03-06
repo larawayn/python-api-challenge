@@ -27,35 +27,36 @@ The first requirement is to create a series of scatter plots to showcase the fol
 The second requirement is to run linear regression on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
-  ![heatmap](output_data/Fig5.png)
+
+![heatmap](output_data/Fig5.png)
 
 * Southern Hemisphere - Temperature (F) vs. Latitude
 
-  ![heatmap](output_data/Fig6.png)
+![heatmap](output_data/Fig6.png)
 
 * Northern Hemisphere - Humidity (%) vs. Latitude
 
-  ![heatmap](output_data/Fig7.png)
+![heatmap](output_data/Fig7.png)
 
 * Southern Hemisphere - Humidity (%) vs. Latitude
 
-  ![heatmap](output_data/Fig8.png)
+![heatmap](output_data/Fig8.png)
 
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![heatmap](output_data/Fig9.png)
+![heatmap](output_data/Fig9.png)
 
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![heatmap](output_data/Fig10.png)
+![heatmap](output_data/Fig10.png)
 
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 
-  ![heatmap](output_data/Fig11.png)
+![heatmap](output_data/Fig11.png)
 
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude!
 
-  ![heatmap](output_data/Fig12.png)
+![heatmap](output_data/Fig12.png)
 
 
 ### Part II - VacationPy
